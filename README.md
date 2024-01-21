@@ -24,6 +24,7 @@ Welcome to my digital playground! Here's a quick tour:
 
 
 **Fun Facts**
+
 🌍 Love to travel, especially if there's a good WiFi connection.
 
 ☕ Fueled by coffee and the tears of bug-fixing.
