@@ -5,8 +5,7 @@
 Welcome to my digital playground! Here's a quick tour:
 
 **About Me**
-🚀 I'm Vittorio, a self-taught dev with a knack for backend and GenAI. I speak more languages than some countries have in their national anthem - Italian, English, Spanish, and a hint of Hebrew.
-
+🚀 I'm Vittorio, a self-taught dev with a knack for backend development and innovative LLM solutions. 
 
 **Tech Stack**
 🛠️ My toolbox includes Node, Express, React, Python, Azure, MongoDB, PostgreSQL, and more!
@@ -14,6 +13,6 @@ Welcome to my digital playground! Here's a quick tour:
 
 **Fun Facts**
 
-🌍 Love to travel, especially if there's a good WiFi connection.
+🌍 Love to travel, but only if there's a decent WiFi connection.
 
 ☕ Fueled by coffee and the tears of bug-fixing.
